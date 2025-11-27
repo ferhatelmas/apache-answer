@@ -17,7 +17,7 @@
 
 module github.com/apache/answer
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/Machiel/slugify v1.0.1
@@ -56,12 +56,12 @@ require (
 	github.com/swaggo/swag v1.16.3
 	github.com/tidwall/gjson v1.17.3
 	github.com/yuin/goldmark v1.7.4
-	go.uber.org/mock v0.5.0
-	golang.org/x/crypto v0.36.0
+	go.uber.org/mock v0.6.0
+	golang.org/x/crypto v0.44.0
 	golang.org/x/image v0.20.0
-	golang.org/x/net v0.38.0
-	golang.org/x/term v0.30.0
-	golang.org/x/text v0.23.0
+	golang.org/x/net v0.47.0
+	golang.org/x/term v0.37.0
+	golang.org/x/text v0.31.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/yaml.v3 v3.0.1
 	modernc.org/sqlite v1.33.0
@@ -161,8 +161,8 @@ require (
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/arch v0.10.0 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/tools v0.25.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/tools v0.39.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
